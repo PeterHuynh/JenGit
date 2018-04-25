@@ -11,7 +11,7 @@ Test Teardown  End Web Test
 
 *** Test Cases ***
 Logged out user can search for products
-    [Tags]  Smoke  View
+    [Tags]  Smoke  
     Amazon.Search for Products
 
 Logged out user can view a product
